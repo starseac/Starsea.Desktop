@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starsea.Desktop", "Starsea.Desktop\Starsea.Desktop.csproj", "{876D93B4-3AC0-4102-8435-7ACDFF269D60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starsea.DB", "Starsea.DB\Starsea.DB.csproj", "{AFB87A51-B015-44A7-AC89-66260A793EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starsea.Helper", "Starsea.Helper\Starsea.Helper.csproj", "{39840C45-6839-4D54-8EBA-089C537884BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starsea.Framework", "Starsea.Framework\Starsea.Framework.csproj", "{0F026712-F7EF-4310-B4EB-DC1CFA2B598F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starsea.UI.Control", "Starsea.UI.Control\Starsea.UI.Control.csproj", "{06ECE53A-1F9D-4576-9639-6C7B95C31C78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{876D93B4-3AC0-4102-8435-7ACDFF269D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{876D93B4-3AC0-4102-8435-7ACDFF269D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{876D93B4-3AC0-4102-8435-7ACDFF269D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB87A51-B015-44A7-AC89-66260A793EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB87A51-B015-44A7-AC89-66260A793EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB87A51-B015-44A7-AC89-66260A793EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB87A51-B015-44A7-AC89-66260A793EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39840C45-6839-4D54-8EBA-089C537884BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39840C45-6839-4D54-8EBA-089C537884BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39840C45-6839-4D54-8EBA-089C537884BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39840C45-6839-4D54-8EBA-089C537884BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F026712-F7EF-4310-B4EB-DC1CFA2B598F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F026712-F7EF-4310-B4EB-DC1CFA2B598F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F026712-F7EF-4310-B4EB-DC1CFA2B598F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F026712-F7EF-4310-B4EB-DC1CFA2B598F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06ECE53A-1F9D-4576-9639-6C7B95C31C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06ECE53A-1F9D-4576-9639-6C7B95C31C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06ECE53A-1F9D-4576-9639-6C7B95C31C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06ECE53A-1F9D-4576-9639-6C7B95C31C78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
